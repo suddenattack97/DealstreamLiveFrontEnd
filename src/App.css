@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+:where(.css-dev-only-do-not-override-2q8sxy).ant-menu-dark.ant-menu-horizontal >.ant-menu-submenu-selected{
+  background-color: rgb(249,191,84) !important;
+}
